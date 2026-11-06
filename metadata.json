@@ -1,0 +1,6 @@
+{
+  "name": "INKVISTAAR — Premium Merch Storefront",
+  "description": "Product-first premium ecommerce storefront selling designer keychains, precision desk mousepads, fridge magnets, and curated streetwear accessories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
